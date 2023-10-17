@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: rgb(161, 172, 177);
+    text-decoration-line: underline;
+}
+.num{
+    text-decoration: rgb(49, 53, 54);
+    text-decoration-line: underline;
+    font-size: 3rem;
+    padding: 8px;
+    margin-top: 10px;
+}
+h1{
+    font-size: 3rem;
+    padding: 8px;
+    letter-spacing: 2px;
+}
+button{
+    font-size: 2rem;
+    color: black;
+    letter-spacing: 1px;
+    border-radius: 7px;
+    /* border-color: skyblue; */
+    background-color: white;
+    margin-left: 10px;
+}
